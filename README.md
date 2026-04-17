@@ -33,7 +33,7 @@ An automated research project focused on restructuring Cytus II rhythm data into
 
 ## [ 04. INSTALLATION ]
 
-**This project has been fully updated and verified for version: v5.2.12**
+**This project has been fully updated and verified for version: [v5.2.12](https://cytus.fandom.com/wiki/Cytus_II_Update_History)**
 
 To apply the modified charts, download the processed `.ab` files and replace them in the following directories based on your platform:
 
