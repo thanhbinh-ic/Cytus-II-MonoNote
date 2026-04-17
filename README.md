@@ -1,3 +1,5 @@
+![preview](https://github.com/thanhbinh-ic/Cytus-II-MonoNote/blob/f1eff56613baff58dd89dc0af71ac6db05258d40/Src/preview.webp)
+
 # [ PROJECT: CYTUS-II-MONONOTE ]
 
 An automated research project focused on restructuring Cytus II rhythm data into a simplified "Single-Note" (MonoNote) format. This project utilizes Python automation and AssetBundle manipulation to explore game engine limits and chart synchronization.
